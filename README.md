@@ -1,1 +1,1 @@
-Blogpost server using Laravel and Bootstrap. Pretty proud of this one. Decently secure thanks to validators and such. Wouldnt bet on it though. 2nd year project for Web Programming
+Blogpost server using Laravel and Bootstrap. Pretty proud of this one. Decently secure thanks to validators and such. Wouldnt bet on it though. No .gitignore so theres database stuff for the viewers pleasure. 2nd year project for Web Programming

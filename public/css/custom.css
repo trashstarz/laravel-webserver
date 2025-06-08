@@ -1,0 +1,72 @@
+#backToTop {
+  position: fixed;
+  top: 20px; 
+  right: 20px;
+  width: 40px;
+  height: 40px;
+  background-color: #333; 
+  color: white; 
+  border: 2px solid #222;
+  border-radius: 5px;
+  font-size: 20px;
+  display: none;
+  cursor: pointer;
+  z-index: 9999;
+  text-align: right;
+  line-height: 20px;
+}
+
+#backToTop:hover {
+  background-color: #555;
+  border-color: #444;
+}
+.btn {
+  word-break: break-word;
+  white-space: normal;
+  overflow-wrap: break-word;
+}
+.form-label {
+  word-break: break-word;
+  white-space: normal;
+  overflow-wrap: break-word;
+}
+
+@media (min-width: 238px) {
+  .w-sm-50 {
+    width: 50% !important;
+  }
+}
+
+@media (min-width: 238px) {
+  .w-sm-25 {
+    width: 25% !important;
+  }
+}
+
+@media (min-width: 476px) {
+  .w-md-25 {
+    width: 25% !important;
+  }
+}
+
+@media (min-width: 476px) {
+  .w-md-75 {
+    width: 75% !important;
+  }
+}
+@media (min-width: 0px) {
+  .w-xxs-100 {
+    width: 100%;
+  }
+}
+@media (min-width: 576px) {
+  .w-m-100 {
+    width: 100% !important;
+  }
+}
+.uniform-btn {
+  min-width: 130px; 
+  min-height: 45px;
+  padding: 0.5rem 1rem;
+  text-align: center;
+}
